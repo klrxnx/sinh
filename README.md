@@ -1,5 +1,3 @@
-# sinh
-draft for numerical analysis project
 <!DOCTYPE html>
 <html>
 <head>
